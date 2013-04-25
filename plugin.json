@@ -1,0 +1,14 @@
+{
+  "type": "javascript",
+  "id": "dailymotion",
+  "file": "dailymotion.js",
+  "category": "video",
+  "showtimeVersion": "4.2",
+  "version": "1.0",
+  "author": "Anthony Dahanne (@anthonydahanne)",
+  "title": "Dailymotion",
+  "icon": "dailymotion.png",
+  "synopsis": "Dailymotion: Video Sharing service",
+  "description":"<p>Dailymotion Showtime plugin is the integration of the website Dailymotion into Showtime</p>",
+  "homepage":"https://github.com/anthonydahanne/showtime-plugin-dailymotion"
+}
